@@ -1,1 +1,1 @@
-Exercices from [http://www.seas.upenn.edu/~cis194/spring13/lectures.html] (CIS 194 by Brent Yorgey)
+Exercices from [CIS 194 by Brent Yorgey] (http://www.seas.upenn.edu/~cis194/spring13/lectures.html)
